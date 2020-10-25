@@ -1,5 +1,7 @@
 # Doodle-Recognition
 A program to take a sketch as an input from the user and use machine learning(support vector algorithms) to compare it to many other pre-added sketches in a dataset to identify what object the user has drawn.
+The program is coded in Python3 using Jupyter Notebook
+The prograim can be run using the Doodle_CNN_Model_v2.ipynb
 
 1.   Trained for 51 classes with 15k instances for each class.
 2.   Took approx. 2hrs 10 mins to train
